@@ -1,9 +1,10 @@
 ---
 layout: post
 title: This was unexpexted.!
+image: /images/config.png
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Expectations?
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
