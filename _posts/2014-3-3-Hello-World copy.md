@@ -11,7 +11,7 @@ when does it go to the read more section?
 ![Example Image](https://drive.google.com/uc?export=view&id=1kv5h3b9ihsWU86Vhb7P8BUhc5ZUiDo0m)
 
 Large image
-[click on this link](#my-multi-word-header)
+[just](#like-this-one)
 
 ### My Multi Word Header
 Hi Lena
