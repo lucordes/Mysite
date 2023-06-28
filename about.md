@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey what's up Luca here...
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This is my travel Blog for myself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Luca Cordes](mailto:cordes135@gmail.com)
