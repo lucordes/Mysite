@@ -14,7 +14,6 @@ Large image
 [link](#Pic)
 <h3 id="Pic">Pic header</h3>
 
-#Pic
 Hi Lena
 
 ![Example Image](https://drive.google.com/uc?export=view&id=11wIQTfb0I7erhEoG37kOQqHcTBtEa_vv)
