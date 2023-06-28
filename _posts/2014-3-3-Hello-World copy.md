@@ -11,9 +11,9 @@ when does it go to the read more section?
 ![Example Image](https://drive.google.com/uc?export=view&id=1kv5h3b9ihsWU86Vhb7P8BUhc5ZUiDo0m)
 
 Large image
-[just](#like-this-one)
+[link](#1-this-is-my-header)
+<h3 id="1-this-is-my-header">1. This is my Header</h3>
 
-### Pics
 Hi Lena
 see [`Pics`](###Pics).
 ![Example Image](https://drive.google.com/uc?export=view&id=11wIQTfb0I7erhEoG37kOQqHcTBtEa_vv)
