@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This was unexpexted.!
+title: USA Vorbereitung
 ---
 
 [Wohin geht die Reise?](#wo)
@@ -12,7 +12,7 @@ title: This was unexpexted.!
 
 <h3 id="wo">Wohin geht die Reise?</h3>
 
-Die Reise geht in die USA :de: :airplane: :us:.
+Die Reise geht in die USA :de: &#2708 :us:.
 
 
 
