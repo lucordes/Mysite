@@ -20,12 +20,4 @@ posted from the phone
 ![Example Image](https://drive.google.com/uc?export=view&id=11wIQTfb0I7erhEoG37kOQqHcTBtEa_vv)
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
-<!DOCTYPE HTML>
-<title>OpenLayers Simplest Example</title>
-<div id="demoMap" style="height:250px"></div>
-<script src="OpenLayers.js"></script>
-<script>
-    map = new OpenLayers.Map("demoMap");
-    map.addLayer(new OpenLayers.Layer.OSM());
-    map.zoomToMaxExtent();
-</script>
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=8.53019714355469%2C49.822037122094414%2C8.734474182128908%2C49.91265613102976&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=13/49.8674/8.6323">View Larger Map</a></small>
