@@ -19,3 +19,13 @@ posted from the phone
 
 ![Example Image](https://drive.google.com/uc?export=view&id=11wIQTfb0I7erhEoG37kOQqHcTBtEa_vv)
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
+<!DOCTYPE HTML>
+<title>OpenLayers Simplest Example</title>
+<div id="demoMap" style="height:250px"></div>
+<script src="OpenLayers.js"></script>
+<script>
+    map = new OpenLayers.Map("demoMap");
+    map.addLayer(new OpenLayers.Layer.OSM());
+    map.zoomToMaxExtent();
+</script>
