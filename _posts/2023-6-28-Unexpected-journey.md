@@ -12,7 +12,7 @@ title: USA Vorbereitung
 
 <h3 id="wo">Wohin geht die Reise?</h3>
 
-Die Reise geht in die USA :de: &#2708 :us:.
+Die Reise geht in die USA :de: :airplane: :us:.
 
 
 
